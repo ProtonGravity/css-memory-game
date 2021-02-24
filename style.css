@@ -1,0 +1,448 @@
+/*
+ 
+ ..######...######...######.
+ .##....##.##....##.##....##
+ .##.......##.......##......
+ .##........######...######.
+ .##.............##.......##
+ .##....##.##....##.##....##
+ ..######...######...######.
+ 
+*/
+
+/* MAIN SETTINGS */
+
+* {
+
+}
+
+html, body {
+
+}
+
+body {
+
+}
+
+.main {
+ 
+}
+
+/* END OF MAIN SETTINGS */
+
+/* FOUR CONTAINERS FOR CARDS */
+
+.main > div {
+
+}
+
+/* END OF FOUR CONTAINERS FOR CARDS */
+
+/* FURTHER SETTINGS FOR CARDS CONTAINERS */
+
+.main > .birds {
+
+}
+
+/* END OF FURTHER SETTINGS FOR CARDS CONTAINERS */
+
+/* Settings Of memory cards - position and animation - and 12 images */
+
+.birds div {
+
+  
+}
+
+.birds:nth-child(1) > div:nth-child(1), 
+.birds:nth-child(2) > div:nth-child(1), 
+.birds:nth-child(3) > div:nth-child(1), 
+.birds:nth-child(4) > div:nth-child(1) {
+
+}
+
+.birds:nth-child(1) > div:nth-child(2), 
+.birds:nth-child(2) > div:nth-child(2), 
+.birds:nth-child(3) > div:nth-child(2), 
+.birds:nth-child(4) > div:nth-child(2) {
+
+}
+
+.birds:nth-child(1) > div:nth-child(3), 
+.birds:nth-child(2) > div:nth-child(3), 
+.birds:nth-child(3) > div:nth-child(3), 
+.birds:nth-child(4) > div:nth-child(3) {
+  
+}
+
+/* END OF Settings Of memory cards - position and animation - and 12 images */
+
+/* ANIMATION FOR CARDS - Random drawing Cards - done by changing z-index */
+
+@-webkit-keyframes cardDown {
+
+}
+
+@keyframes cardDown {
+
+}
+
+@-webkit-keyframes cardUp {
+
+}
+
+@keyframes cardUp {
+
+}
+
+
+/* END OF ANIMATION FOR CARDS - Random drawing Cards - done by changing z-index */
+
+
+/* SETTINGS OTHER IMAGES first segment is set nth-child(1) with children */
+/* Now Rest images for rest segments nth-child(2,3,4)*/
+
+.birds:nth-child(2) > div:nth-child(1) {
+  
+}
+
+.birds:nth-child(2) > div:nth-child(2) {
+  
+}
+
+.birds:nth-child(2) > div:nth-child(3) {
+
+}
+
+.birds:nth-child(3) > div:nth-child(1) {
+  
+}
+
+.birds:nth-child(3) > div:nth-child(2) {
+  
+}
+
+.birds:nth-child(3) > div:nth-child(3) {
+ 
+}
+
+.birds:nth-child(4) > div:nth-child(1) {
+  
+}
+
+.birds:nth-child(4) > div:nth-child(2) {
+  
+}
+
+.birds:nth-child(4) > div:nth-child(3) {
+
+}
+
+
+/* END OF SETTINGS OTHER IMAGES first segment is set nth-child(1) with children */
+
+
+/* Could be the hardest part - TRY TO UNDERSTAND ;) - hovering */
+
+.main:hover .birds {
+
+}
+
+.main:hover .birds > div {
+
+}
+
+.main .birds:hover {
+
+}
+
+/* END OF Could be the hardest part - TRY TO UNDERSTAND ;) - hovering */
+
+/* FINALLY LAST SECTION - to set some time to remember all 4 cards */
+
+@-webkit-keyframes whiteBlack {
+
+}
+
+@keyframes whiteBlack {
+
+}
+
+
+/* END OF FINALLY LAST SECTION - to set some time to remember all 4 cards */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
